@@ -1,8 +1,8 @@
 [![0xMK GitHub Banner](./assets/banner.png)](https://0xMK.kishin.xyz)
 
 [![Visits Badge](https://badges.pufler.dev/visits/00xMK/00xMK)](https://0xMK.kishin.xyz)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=512da8)](https://twitter.com/00xMK)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=673ab7)](https://linkedin.com/in/0xMK)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=512DA8)](https://twitter.com/00xMK)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=FF5722)](https://linkedin.com/in/0xMK)
 
 ### Hi there 👋
 
